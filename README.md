@@ -1,0 +1,1 @@
+I am creating a basic chess game and the goal is to while learning and teaching myself to create a chess game to also create a lesson plan that explains the elements being used in the code so that soemone can follow along and understand and possibly attempt to create their own thing while also learning the basics of coding. 
